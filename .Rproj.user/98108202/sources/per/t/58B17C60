@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568263248226.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2653795314",
+    "id" : "58B17C60",
+    "lastKnownWriteTime" : 1568271808,
+    "last_content_update" : 1568271808432,
+    "path" : "E:/towork/study/r-studio/projects/time-series analysis/decomposition.Rmd",
+    "project_path" : "decomposition.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "108,46",
+        "scrollLine" : "97",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

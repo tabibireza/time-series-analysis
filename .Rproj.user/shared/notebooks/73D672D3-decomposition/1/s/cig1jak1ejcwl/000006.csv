@@ -1,0 +1,5 @@
+"0","hist(model$residuals,"
+"0","     col='red',"
+"0","     xlab = 'Error',"
+"0","     main='Histogram of residuals',"
+"0","     freq = FALSE)"
